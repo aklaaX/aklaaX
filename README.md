@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 🎧 **Beatmaker le jour, développeur la nuit** (ou l’inverse, qui sait ?)
 
 Je m’appelle **aklaaX**, et je crée mes propres sons **et** mes propres plateformes.  
@@ -18,6 +17,8 @@ C’est juste une autre façon de produire.
 Pas de bullshit. Juste du concret.
 
 🚀 Suis-moi si tu veux voir comment un beatmaker peut aussi devenir architecte de son propre monde digital.
+
+<!--
 **aklaaX/aklaaX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
